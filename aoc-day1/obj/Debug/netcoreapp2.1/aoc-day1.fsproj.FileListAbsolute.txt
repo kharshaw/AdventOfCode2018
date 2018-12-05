@@ -1,0 +1,10 @@
+C:\Users\keith\Documents\GitHub\AdventOfCode2018\aoc-day1\bin\Debug\netcoreapp2.1\aoc-day1.deps.json
+C:\Users\keith\Documents\GitHub\AdventOfCode2018\aoc-day1\bin\Debug\netcoreapp2.1\aoc-day1.runtimeconfig.json
+C:\Users\keith\Documents\GitHub\AdventOfCode2018\aoc-day1\bin\Debug\netcoreapp2.1\aoc-day1.runtimeconfig.dev.json
+C:\Users\keith\Documents\GitHub\AdventOfCode2018\aoc-day1\bin\Debug\netcoreapp2.1\aoc-day1.dll
+C:\Users\keith\Documents\GitHub\AdventOfCode2018\aoc-day1\bin\Debug\netcoreapp2.1\aoc-day1.pdb
+C:\Users\keith\Documents\GitHub\AdventOfCode2018\aoc-day1\obj\Debug\netcoreapp2.1\aoc-day1.fsprojAssemblyReference.cache
+C:\Users\keith\Documents\GitHub\AdventOfCode2018\aoc-day1\obj\Debug\netcoreapp2.1\aoc-day1.AssemblyInfoInputs.cache
+C:\Users\keith\Documents\GitHub\AdventOfCode2018\aoc-day1\obj\Debug\netcoreapp2.1\aoc-day1.AssemblyInfo.fs
+C:\Users\keith\Documents\GitHub\AdventOfCode2018\aoc-day1\obj\Debug\netcoreapp2.1\aoc-day1.dll
+C:\Users\keith\Documents\GitHub\AdventOfCode2018\aoc-day1\obj\Debug\netcoreapp2.1\aoc-day1.pdb
